@@ -1,4 +1,4 @@
-//  Program to implement a DFA over {0,1} that accept strings contianing even number of 1
+//  Program to implement a DFA over {0,1} that accept strings contianing substring 01
 #include <stdio.h>
 
 int simulateNFA(char *input) {
